@@ -1,0 +1,6 @@
+Model,Epochs,Train Accuracy,Test Accuracy,Model File
+Baseline CNN,2,23.612,31.45,models/baseline_2epochs.pth
+Baseline CNN,5,43.812,45.19,models/baseline_5epochs.pth
+Baseline CNN,10,53.572,53.31,models/baseline_10epochs.pth
+Baseline CNN,20,64.666,61.89,models/baseline_20epochs.pth
+Improved CNN,10,62.514,62.52,models/improved_10epochs.pth
